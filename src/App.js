@@ -10,7 +10,6 @@ import Footer from "./Footer";
 import NextButton from "./NextButton";
 import ProgressBar from "./ProgressBar";
 import FinishScreen from "./FinishScreen";
-import { Typography } from "@material-tailwind/react";
 
 const initialState = {
   questions: [],
